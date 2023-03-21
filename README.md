@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asifsadiq
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning AI,ML
-- 💞️ I’m looking to collaborate on React, Angular, javascript, C#
+- 👀 I’m interested in DevSecOps
+- 🌱 I’m currently working on security automation in CI/CD
+- 💞️ I’m looking to collaborate on Kubernetes, TeraForm, Jenkins
 - 📫 How to reach me : asif.sadiq@live.com
 
 <!---
